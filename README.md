@@ -5,6 +5,7 @@ A list of annual developer conferences in Africa.
 - [Silicon Mountain Conference](#silicon-mountain-conference)
 - [OpenMRS Implementers Meeting](#openmrs-implementers-meeting)
 - [ConcantenateConf](#concantenateconf)
+- [DevConf South Africa](#devconf-south-africa)
 
 ## Silicon Mountain Conference
 
@@ -54,3 +55,14 @@ A free conference for Nigerian developers with topics ranging from frameworks to
 ### Website
 
 https://concatenate.io/
+
+
+## DevConf South Africa
+
+DevConf is a community-driven, developer focused, one-day conference hosted annually. The aim of the conference is to provide software developers with a buffet of tools, practices and principles applicable to tackling current and future challenges in the South African software development environment. It's an event where attendees can learn, network and be inspired regardless of their specific technology stack and programming language of choice.
+
+DevConf serves to inspire software developers. A range of topics applicable to software development will be presented. From keeping up to date with the latest technologies and trends to tackling the challenges of working in large enterprise systems – it's a buffet of experiences, ideas and pragmatic advice as well as an opportunity to connect with peers across the industry.
+
+### Website
+
+https://www.devconf.co.za/
