@@ -2,8 +2,8 @@
 A list of annual developer conferences in Africa. 
 
 ## Contents
-- [Silicon Mountain Conference](#smconf)
-- [OpenMRS Implementers Meeting](#omrs)
+- [Silicon Mountain Conference](#silicon-mountain-conference)
+- [OpenMRS Implementers Meeting](#openmrs-implementers-meeting)
 
 ## Silicon Mountain Conference
 
