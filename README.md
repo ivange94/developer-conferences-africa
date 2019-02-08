@@ -1,9 +1,10 @@
 # Developer Conferences in Africa
-A list of annual developer conferences in Africa. 
+A list of annual developer conferences in Africa.  
 
 ## Contents
 - [Silicon Mountain Conference](#silicon-mountain-conference)
 - [OpenMRS Implementers Meeting](#openmrs-implementers-meeting)
+- [ConcantenateConf](#concantenateconf)
 
 ## Silicon Mountain Conference
 
@@ -44,3 +45,12 @@ OpenMRS has a travel grant program for community members that would otherwise no
 
 ### Website
 https://wiki.openmrs.org/display/RES/2018+Implementers%27+Conference
+
+
+## ConcantenateConf
+
+A free conference for Nigerian developers with topics ranging from frameworks to design systems, performance to animation.
+
+### Website
+
+https://concatenate.io/
