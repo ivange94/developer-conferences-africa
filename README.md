@@ -7,6 +7,7 @@ A list of annual developer conferences in Africa.
 - [ConcantenateConf](#concantenateconf)
 - [DevConf South Africa](#devconf-south-africa)
 - [PHP South Africa](#php-south-africa)
+- [ScaleConf](#scaleconf)
 
 ## Silicon Mountain Conference
 
@@ -55,3 +56,11 @@ An annual PHP conference in South Africa
 ### Website
 
 https://phpsouthafrica.com/
+
+## ScaleConf
+
+Each year ScaleConf brings international and local experts together to share their experience scaling websites and services using modern technologies and philosophies.
+
+### Website
+
+https://scaleconf.org/
