@@ -10,6 +10,7 @@ A list of annual developer conferences in Africa.
 - [ScaleConf](#scaleconf)
 - [Pixel Up](#pixel-up)
 - [Source Up](#source-up)
+- [SATRDAY](#satrday)
 
 ## Silicon Mountain Conference
 
@@ -83,3 +84,7 @@ https://pixelup.co.za/
 ### Website
 
 https://sourceup.co.za/
+
+## SATRDAY
+
+The R community and some of South Africa's most forward thinking companies have come together to bring satRday back for its third edition. This conference provides an opportunity to hear from and network with top Researchers, Data Scientists and Developers from the R community in South Africa and beyond.
