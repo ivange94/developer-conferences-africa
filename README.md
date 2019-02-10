@@ -8,6 +8,7 @@ A list of annual developer conferences in Africa.
 - [DevConf South Africa](#devconf-south-africa)
 - [PHP South Africa](#php-south-africa)
 - [ScaleConf](#scaleconf)
+- [Pixel Up](#pixel-up)
 
 ## Silicon Mountain Conference
 
@@ -64,3 +65,12 @@ Each year ScaleConf brings international and local experts together to share the
 ### Website
 
 https://scaleconf.org/
+
+
+## Pixel Up!
+
+3 days of UX, design, content, and research in Cape Town
+
+### Website
+
+https://pixelup.co.za/
