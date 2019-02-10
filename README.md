@@ -9,6 +9,7 @@ A list of annual developer conferences in Africa.
 - [PHP South Africa](#php-south-africa)
 - [ScaleConf](#scaleconf)
 - [Pixel Up](#pixel-up)
+- [Source Up](#source-up)
 
 ## Silicon Mountain Conference
 
@@ -74,3 +75,11 @@ https://scaleconf.org/
 ### Website
 
 https://pixelup.co.za/
+
+## Source Up!
+
+2 days, 8 in-depth talks and 2 full-day, hands-on workshops with authors, front-end consultants, and experts who've worked with Etsy, Google, Microsoft, Slack, and more
+
+### Website
+
+https://sourceup.co.za/
