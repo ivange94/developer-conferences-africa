@@ -6,6 +6,7 @@ A list of annual developer conferences in Africa.
 - [OpenMRS Implementers Meeting](#openmrs-implementers-meeting)
 - [ConcantenateConf](#concantenateconf)
 - [DevConf South Africa](#devconf-south-africa)
+- [PHP South Africa](#php-south-africa)
 
 ## Silicon Mountain Conference
 
@@ -46,3 +47,11 @@ DevConf serves to inspire software developers. A range of topics applicable to s
 ### Website
 
 https://www.devconf.co.za/
+
+## PHP South Africa
+
+An annual PHP conference in South Africa
+
+### Website
+
+https://phpsouthafrica.com/
