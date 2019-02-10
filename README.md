@@ -88,3 +88,7 @@ https://sourceup.co.za/
 ## SATRDAY
 
 The R community and some of South Africa's most forward thinking companies have come together to bring satRday back for its third edition. This conference provides an opportunity to hear from and network with top Researchers, Data Scientists and Developers from the R community in South Africa and beyond.
+
+### Website
+
+https://joburg2019.satrdays.org/
